@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning SaaS Management 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  - Facebook    /Mak.Akasha
-  - Twitte      /MakAkasha
-  - Instagram   /MakAksha
+  - Facebook.com/Mak.Akasha
+  - Twitte.com/MakAkasha
+  - Instagram.com/MakAksha
 
 <!---
 MakAkasha/MakAkasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
